@@ -1,0 +1,9 @@
+body,
+html{
+  margin: 0;
+  height: 100%;
+  display: grid;
+  background-color: #ffdd40;
+  font-family: "Henny Penny",cursive;
+  color: #274dff;
+}
