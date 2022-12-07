@@ -1,19 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+
+
 body,
-html{
+html {
   margin: 0;
   height: 100%;
   display: grid;
-  background-color: #ffdd40;
-  font-family: "Henny Penny",cursive;
+  background-color: #ffbd00;
+  font-family: "Henny Penny", cursive;
   color: #274dff;
 }
 
-p{
+p {
   margin: auto;
   letter-spacing: 0.0015em;
   font-size: 5em;
-  text-shadow: 0 1px #8da1ff,-1px 0 #c0cbff,-1px 2px #8da1ff,-2px 1px #c0cbff,-2px 3px #8da1ff,-3px 2px #c0cbff,-3px 4px #8da1ff,-4px 3px #c0cbff,
-  -4px 5px #8da1ff,-5px 4px #c0cbff,-5px 6px #8da1ff,-6px 5px #c0cbff
-  -6px 7px #8da1ff,-7px 6px #c0cbff,-7px 8px #8da1ff,-8px 7px #c0cbff;
+  text-shadow: 0 1px #8da1ff, -1px 0 #c0cbff, -1px 2px #8da1ff, -2px 1px #c0cbff,
+    -2px 3px #8da1ff, -3px 2px #c0cbff, -3px 4px #8da1ff, -4px 3px #c0cbff,
+    -4px 5px #8da1ff, -5px 4px #c0cbff, -5px 6px #8da1ff, -6px 5px #c0cbff,
+    -6px 7px #8da1ff, -7px 6px #c0cbff, -7px 8px #8da1ff, -8px 7px #c0cbff;
   text-align: center;
 }
